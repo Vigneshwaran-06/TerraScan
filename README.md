@@ -5,7 +5,7 @@ Welcome to the Soil Fertility Analyzer! This project is designed to help you ana
 
 ✨ Features
 Input various soil parameters: 
-soil type, moisture content, pH level, soil color, nitrogen, phosphorus, potassium, salinity, pesticide levels, and metal content. 🌈
+soil type, moisture content, pH level, soil color, nitrogen, phosphorus, potassium, salinity, pesticide levels, and metal content. 
 Save your data to a CSV file for easy tracking and analysis. 📈
 User-friendly GUI with Tkinter for easy interaction. 🖥️
 
