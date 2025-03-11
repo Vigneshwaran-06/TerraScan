@@ -17,7 +17,7 @@ Click the "Add Record" button to save your data to Soil_Record.csv. ✅
 📧 Contact
 For any inquiries or support, feel free to reach out via email:
 [vigneshwaranv.aiml2023@citchennai.net](mailto:vigneshwaranv.aiml2023@citchennai.net)
-[rsaivankat.aiml2023@citchennai.net](mailto:rsaivankat.aiml2023@citchennai.net)
+[saivenkat06vk@gmail.com](mailto:saivenkat06vk@gmail.com)
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
